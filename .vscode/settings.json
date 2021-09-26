@@ -1,9 +1,0 @@
-{
-	"files.associations": {
-		"*.php": "php",
-		"vector": "cpp",
-		"utility": "cpp",
-		"xutility": "cpp",
-		"stack": "cpp"
-	}
-}
