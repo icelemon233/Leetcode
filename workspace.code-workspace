@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "LEETCODE",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.php": "php",
+			"vector": "cpp",
+			"xstring": "cpp",
+			"algorithm": "cpp",
+			"limits": "cpp",
+			"utility": "cpp",
+			"xutility": "cpp",
+			"iterator": "cpp",
+			"xhash": "cpp",
+			"xtree": "cpp",
+			"list": "cpp",
+			"system_error": "cpp",
+			"string": "cpp",
+			"cstdlib": "cpp",
+			"unordered_map": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"stack": "cpp",
+			"ios": "cpp",
+			"queue": "cpp",
+			"tuple": "cpp",
+			"compare": "cpp",
+			"xstddef": "cpp"
+		}
+	}
+}
